@@ -1,19 +1,5 @@
-{
-  "name": "e-comerce-backend",
+﻿{
+  "name": "com-voce-tur",
   "version": "1.0.0",
-  "description": "Backend para e-commerce com autenticação e integração Mercado Pago",
-  "main": "server.js",
-  "scripts": {
-    "start": "node server.js",
-    "dev": "node server.js"
-  },
-  "dependencies": {
-    "express": "^4.18.2",
-    "sqlite3": "^5.1.6",
-    "mercadopago": "^1.5.17",
-    "cors": "^2.8.5",
-    "body-parser": "^1.20.2",
-    "bcrypt": "^5.1.1"
-  }
-}</content>
-<parameter name="filePath">package.json
+  "description": "Site Com Voce Turismo"
+}
